@@ -1,4 +1,4 @@
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcl68&show_icons=true&theme=radical)<br>![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorcl68)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcl68&layout=compact)<br>
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcl68&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcl68&layout=compact)<br>
 ### OS
 ![Ubuntu](https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
 ### Technologies
