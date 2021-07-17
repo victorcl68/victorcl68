@@ -1,5 +1,5 @@
 ### Atualmente estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/)<br>
-[LinkedIn](https://www.linkedin.com/in/victorclc/) / [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)<br><br>
+#### [LinkedIn](https://www.linkedin.com/in/victorclc/) / [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)<br><br>
 [![Gmail Badge](https://img.shields.io/badge/-victor.cabrera0209@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.cabrera0209@gmail.com)](mailto:victor.cabrera0209@gmail.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
