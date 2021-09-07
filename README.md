@@ -1,4 +1,5 @@
 ### Atualmente estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/)
+📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
 
 ##
 
@@ -7,10 +8,6 @@
     <a href="mailto:victor.cabrera0209@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-##
-
-📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
 
 ##
 
