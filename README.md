@@ -1,4 +1,4 @@
-#### Desde pequeno sou apaixonado por Tecnologia e por isso resolvi direcionar a minha carreira para a área de Desenvolvimento. Inclusive, hoje estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/) e tenho conhecimento em Back-End, especialmente com a tecnologia NodeJS e um nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas
+### Desde pequeno sou apaixonado por Tecnologia e por isso resolvi direcionar a minha carreira para a área de Desenvolvimento. Inclusive, hoje estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/) e tenho conhecimento em Back-End, especialmente com a tecnologia NodeJS e um nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas
 
 📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
 
