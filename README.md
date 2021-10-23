@@ -1,5 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=victorcl68" alt="Victor Lopes" /> </p>
-### Desde pequeno sou apaixonado por Tecnologia e por isso resolvi direcionar a minha carreira para a área de Desenvolvimento. Inclusive, hoje estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/) e tenho conhecimento em Back-End, especialmente com a tecnologia NodeJS e um nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcl68" alt="Victor Lopes" /> </p>
+
+### Desde pequeno sou apaixonado por Tecnologia e por isso resolvi direcionar a minha carreira para a área de Desenvolvimento. Inclusive, hoje estudo Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/) e tenho conhecimento em Back-End, especialmente com a tecnologia NodeJS e um nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas 
 
 ### <a href="https://www.linkedin.com/in/victorclc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ### 📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
