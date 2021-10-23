@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/victorclc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 ### 📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
-### 📫 [victor.cabrera0209@gmail.com](victor.cabrera0209@gmail.com)
+### 📫 [victor.cabrera0209@gmail.com](mailto:victor.cabrera0209@gmail.com)
 
 ##
 
