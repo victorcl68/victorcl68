@@ -1,4 +1,4 @@
-### Concluí o curso de Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/), atualmente trabalho na [Previdenciarista](https://www.linkedin.com/company/previdenciarista) como Desenvolvedor Web Front-End, tenho conhecimento e prática especialmente com as tecnologias React JS, Node JS, MySQL, MongoDB e Python com nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas e que um ambiente de trabalho saudável é aquele que proporciona à seus colaboradores liberdade e que há respeito entre todos.
+### Concluí o curso de Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/), tenho conhecimento e prática especialmente com as tecnologias React JS, Node JS, MySQL, MongoDB e Python com nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas e que um ambiente de trabalho saudável é aquele que proporciona à seus colaboradores liberdade e que há respeito entre todos.
 
 
 ### <a href="https://www.linkedin.com/in/victorclc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
