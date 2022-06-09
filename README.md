@@ -2,7 +2,7 @@
 
 
 ### <a href="https://www.linkedin.com/in/victorclc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-### 📄 [Currículo](https://drive.google.com/drive/folders/1tGnrVpb6ZmP9utts31cp2CX3DQNo_XTc)
+### 📄 [Currículo](https://1drv.ms/b/s!An5RU0UyblRugV2Z6WH8z5fdPdN6?e=WkTZ3D)
 ### 📫 [victor.cabrera0209@gmail.com](mailto:victor.cabrera0209@gmail.com)
 
 ##
