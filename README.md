@@ -1,8 +1,8 @@
-### Concluí o curso de Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/), tenho conhecimento e prática especialmente com as tecnologias React JS, Node JS, MySQL, MongoDB e Python com nível de Inglês Intermediário. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas e que um ambiente de trabalho saudável é aquele que proporciona à seus colaboradores liberdade e que há respeito entre todos.
+### Concluí o curso de Desenvolvimento Web na [Trybe](https://www.linkedin.com/school/betrybe/) e atualmente curso Computação em Nuvem na [FIAP](https://www.linkedin.com/school/fiap/), tenho conhecimento e prática especialmente com as tecnologias React JS, Node JS, MySQL, SQL Server, MongoDB, Python e C# com nível de Inglês Avançado. Acredito e trabalho para poder fazer diferença positiva na vida das pessoas e que um ambiente de trabalho saudável é aquele que proporciona à seus colaboradores liberdade e que há respeito entre todos.
 
 
 ### <a href="https://www.linkedin.com/in/victorclc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-### 📄 [Currículo](https://drive.google.com/file/d/1tLIVZhvSqfb_C1sJMWRKZPjK-gy0IJoX/view?usp=sharing)
+### 📄 [Currículo](https://drive.google.com/file/d/11Qficv_Ln_bi1bHzI4DCPGS7tRZV-3fC/view?usp=sharing)
 ### 📫 [victor.cabrera0209@gmail.com](mailto:victor.cabrera0209@gmail.com)
 
 ##
